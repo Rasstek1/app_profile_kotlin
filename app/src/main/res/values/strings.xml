@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Profile App</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="name">Name</string>
+    <string name="birth_year">Birth Year</string>
+    <string name="city">City</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="save">Save</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
+
