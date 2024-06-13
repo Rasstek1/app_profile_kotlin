@@ -6,7 +6,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.racine.app_profile_kotlin.adapter.ProfileAdapter
-import com.racine.app_profile_kotlin.databinding.ActivityMainBinding//
+import com.racine.app_profile_kotlin.databinding.ActivityMainBinding//xzcxzcxzcxz
 
 class MainActivity : AppCompatActivity() {
 
