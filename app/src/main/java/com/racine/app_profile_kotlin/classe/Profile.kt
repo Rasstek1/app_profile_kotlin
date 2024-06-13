@@ -4,6 +4,7 @@ import android.os.Parcel
 import android.os.Parcelable
 
 data class Profile(
+    // Déclaration des propriétés de la classe Profile
     val name: String,
     val birthYear: Int,
     val city: String,
